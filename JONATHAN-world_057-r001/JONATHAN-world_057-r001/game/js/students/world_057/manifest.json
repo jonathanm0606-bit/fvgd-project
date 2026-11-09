@@ -1,0 +1,15 @@
+{
+  "id": "world_057",
+  "name": "JONATHAN — Starter Project",
+  "author": "Teacher starter for JONATHAN",
+  "description": "Defeat the guards, recover a relic and unlock the exit.",
+  "iconColor": "red",
+  "position": {
+    "x": 1088,
+    "y": 320
+  },
+  "width": 32,
+  "height": 32,
+  "levelId": "world_057_level",
+  "rewardId": "key_world_057"
+}
